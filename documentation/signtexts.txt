@@ -1,0 +1,21 @@
+Hi, this is a sign. You can read it by standing in front of it. You move by pressing the arrow keys. To fly with your rockets, press A. To shoot a fireball, press B. Beware though, both of these use fuel.
+
+See that cake over there? It is a li- I mean, your objective! You must get it! Mmmh, cake!
+
+These are spikes. Best not to touch them if you want to stay healthy.
+
+This is lava. Lava is hot and firey. It will burn. You will hurt.
+
+This is a tombstone. It will spawn zombies. Zombies want to eat your brain. This is bad. You better burn the zombies and their tombstones.
+
+Here are some useful items. The hamburger will restore your health (the hearts in the corner). The fuel barrel will restore your fuel (the bar in the other corner). The mushroom will make you shoot a powerful fireball. Dont let the zombies eat it though.
+
+You should probably run fast this next part..
+
+Stone does not burn...
+
+This is a save point. If you die, you will respawn here.
+
+Have a nice flight!
+
+This is a gold tombstone, we don't really know why it's made of gold. It spawns super zombies. Basically, run!

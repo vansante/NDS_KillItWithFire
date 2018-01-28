@@ -1,0 +1,31 @@
+Level entity:				Color in editor:	Color in nds:
+
+Player spawn point			FF00DC				6C1F
+Player save point			F96BE6				71BF
+
+Nothing						FFFFFF				7FFF
+Ground						000000				0000
+Ceiling rounded left		300000				0006
+Ceiling rounded right		000030				1800
+Floor						333333				18C6
+Floor rounded left			333300				1886
+Floor rounded right			332033				00C6
+Floor Spikes				00FFFF				01BF
+Roof Spikes					7FFFFF				7FEF
+Wall Spikes Left			21007F				180F
+Wall Spikes Right			7F0037				3C04
+Surface Lava				FF6A00				7FE0
+Lava						FFE97F				3FBF
+Wooden block (burnable)		7F3300				00CF
+FallingBlock				A5FF7F				3FF4
+Sign						FFD800				13E0
+Fuel barrel					00FF21				13E0
+Mushroom					FF0000				001F
+Hamburger					B6FF00				03F6
+Tombstone (wood)			4800FF				7C09
+Tombstone (stone)			4F92FF				7E49
+Tombstone (golden)			1668FF				7DA2
+Zombie						0026FF				7C80
+SuperZombie					0026CD				6480
+Cake						A17FFF				7DF4
+

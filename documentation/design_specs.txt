@@ -1,0 +1,23 @@
+Design:
+
+Een platformer waarbij de level tiles gedefinieerd worden door kleuren in een 16bits bitmap.
+
+We hebben een mannetje met een jetpack en een flamethrower. Hij heeft health en fuel. Fuel is nodig voor de jetpack en de flamethrower en health is nodig om in leven te blijven.
+
+We hebben de volgende level tiles:
+- Ground
+- Floor
+- Spikes (floor and roof), you die from these
+- Lava, melts stuff
+- Wooden blocks, burn these with fire
+
+Verder zijn er de volgende objecten in het level:
+- Mushroom -> upgrades stuff
+- Fuel barrel -> refuels
+- Hamburger -> heals
+- Cake -> Finishes level (or not?)
+- Signs -> show tutorial info which might be useful
+
+Ook hebben we vijanden:
+- Tombstone (hout, steen of goud) -> Spawns zombies
+- Zombie -> eats brains and stalks you

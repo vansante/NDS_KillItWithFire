@@ -1,0 +1,13 @@
+Wishlist:
+
+Super zombies (+ color to place in the level)
+Golden tombstone with color
+Stone tombstone with color
+Burnable blocks
+Zombies that fling body parts
+Signs
+New splash screen
+Sounds
+Use libFat
+Falling blocks
+Stuff
